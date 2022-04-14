@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Alexandre Esposte</h1>
 <h3 align="center">Físico computacional e apaixonado por tecnologia</h3>
 
