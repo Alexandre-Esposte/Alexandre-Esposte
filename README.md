@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre Esposte</h1>
-<h3 align="center">Físico computacional e apaixonado por tecnologia</h3>
+<h3 align="center">Físico computacional e interessado por tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre-esposte&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre-esposte" /> </p>
 
