@@ -46,6 +46,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](linkedin.com/in/alexandre-esposte-494a8a217)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/alexandre-esposte-494a8a217)](linkedin.com/in/alexandre-esposte-494a8a217)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandreesposte@gmail.com)](mailto:alexandreesposte@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Alexandre-Esposte)
